@@ -1,3 +1,7 @@
 body{
     background-color: red;
 }
+
+.image{
+    border: 5px soild black;
+}
